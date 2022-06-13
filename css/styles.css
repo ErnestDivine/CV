@@ -1,0 +1,28 @@
+body {
+  background-color: hsl(180, 100%, 90%);
+}
+
+hr {
+  background-color: hsl(180, 100%, 90%);
+  border: none;
+  border-top: 3px dotted grey;
+  width: 20%
+}
+
+img {
+  height: 210px
+}
+
+h1 {
+  color: hsl(180, 100%, 30%);
+  text-decoration-line: underline;
+  text-decoration-color: hsl(180, 100%, 30%);
+}
+
+h2 {
+  color: hsl(180, 100%, 30%)
+}
+
+h3 {
+  color: hsl(180, 100%, 30%)
+}
